@@ -5,7 +5,7 @@ The project is led by our *illustrious team leader*, **Prof AJ McKnight** and he
 
 # Tech Stack
 1. **Front-End:** Vue.js/JS/CSS/HTML/Vuetify
-2. **Back-End:** Laravel/MySQL/
+2. **Back-End:** Laravel/MySQL/Php
 
 # Mockups & Visuals
 
