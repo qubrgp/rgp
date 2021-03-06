@@ -1,0 +1,8 @@
+        #bodyx { background-color: #2a2a2a; padding: 2em; }
+
+        #hrx {
+            border-color: #000 transparent #474747 transparent;
+            border-size: 4px;
+            border-style: solid;
+            height: 0;
+        }

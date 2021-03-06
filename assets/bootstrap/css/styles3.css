@@ -1,0 +1,10 @@
+        #bodyx { background-color: #fff; padding: 2em; }
+
+        #hrx {
+            border-color: #000 transparent #474747 transparent;
+            border-size: 4px;
+            border-style: solid;
+            height: 0;
+        }
+		
+.topbar-divider{width:0;border-right:10px solid #e3e6f0;height:2.375rem;margin:auto 1rem}		
