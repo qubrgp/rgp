@@ -7,6 +7,7 @@ The project is led by  **Prof AJ McKnight** and her fellow team of CKD researche
   * [Live Portal on GitPages](https://qubrgp.github.io/rgp/)
   * [TechStack](https://github.com/qubrgp/rgp#tech-stack)  
   * [Mock ups & Visuals](https://github.com/qubrgp/rgp#mockups--visuals)
+  * [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 # Tech Stack
 1. **Front-End:** Vue.js/JS/CSS/HTML/Vuetify
