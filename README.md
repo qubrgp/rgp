@@ -3,6 +3,11 @@ RenGenPECT was developed as a resource to host integrated molecular, environment
 
 The project is led by  **Prof AJ McKnight** and her fellow team of CKD researchers. The portal is maintained by Dr. Sanmi Olade who is thankful for the opportunity to be a part of the team and gives all glory to God.
 
+# Table of Content
+  * [Live Portal on GitPages](https://qubrgp.github.io/rgp/)
+  * [TechStack](https://github.com/qubrgp/rgp#tech-stack)  
+  * [Mock ups & Visuals](https://github.com/qubrgp/rgp#mockups--visuals)
+
 # Tech Stack
 1. **Front-End:** Vue.js/JS/CSS/HTML/Vuetify
 2. **Back-End:** Laravel/MySQL/
